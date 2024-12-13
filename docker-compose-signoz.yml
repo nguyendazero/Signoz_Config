@@ -1,0 +1,10 @@
+version: '3.6'
+
+services:
+  signoz:
+    image: signoz/signoz-otel-collector:latest
+    ports:
+      - "4318:4318"
+    volumes:
+      - C:\E\Project\Springboot\its-rct-api-mock\otel_collector_config.yaml:/etc/otel/config.yaml
+    restart: always

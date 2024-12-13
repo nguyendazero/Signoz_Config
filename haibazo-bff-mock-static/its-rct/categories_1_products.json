@@ -1,0 +1,695 @@
+[
+  {
+    "id": 11,
+    "highlightedImage": "/assets/product/n_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/n_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/n_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/n_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/n_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "weight": "1.5lb, 0.68kg",
+    "dateEndSale": "2024-11-17T10:00:00",
+    "sizeChart": "/assets/product/size_chart.jpg",
+    "isWish": "true",
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLUE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "BLACK"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/n_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "WHITE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "XXL"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/n_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 12,
+    "highlightedImage": "/assets/product/m_1.jpg",
+    "images": [
+      {
+        "id": 45,
+        "url": "/assets/product/m_2.jpg"
+      },
+      {
+        "id": 46,
+        "url": "/assets/product/m_3.jpg"
+      },
+      {
+        "id": 47,
+        "url": "/assets/product/m_4.jpg"
+      },
+      {
+        "id": 48,
+        "url": "/assets/product/m_5.jpg"
+      }
+    ],
+    "rating": 5,
+    "reviewCount": 162,
+    "viewCount": 2132,
+    "weight": "1.5lb, 0.68kg",
+    "dateEndSale": "2024-11-17T10:00:00",
+    "sizeChart": "/assets/product/size_chart.jpg",
+    "isWish": "true",
+    "name": "Trendy Queen Women's Oversized Cable",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "price": 21,
+        "discountPrice": 30,
+        "stock": 75,
+        "image": "/assets/product/m_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "S",
+            "value": "M"
+          }
+        ],
+        "price": 27,
+        "discountPrice": 30,
+        "stock": 164,
+        "image": "/assets/product/m_1.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 13,
+    "highlightedImage": "/assets/product/j_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/j_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/j_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/j_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/j_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "weight": "1.5lb, 0.68kg",
+    "dateEndSale": "2024-11-17T10:00:00",
+    "sizeChart": "/assets/product/size_chart.jpg",
+    "isWish": "true",
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "RED"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "PINK"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/j_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/j_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 14,
+    "highlightedImage": "/assets/product/l_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/l_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/l_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/l_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/l_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "weight": "1.5lb, 0.68kg",
+    "dateEndSale": "2024-11-17T10:00:00",
+    "sizeChart": "/assets/product/size_chart.jpg",
+    "isWish": "true",
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/l_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/l_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 15,
+    "highlightedImage": "/assets/product/p_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/p_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/p_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/p_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/p_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "weight": "1.5lb, 0.68kg",
+    "dateEndSale": "2024-11-17T10:00:00",
+    "sizeChart": "/assets/product/size_chart.jpg",
+    "isWish": "false",
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "XXL"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/p_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/p_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 16,
+    "highlightedImage": "/assets/product/q_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/q_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/q_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/q_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/q_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "weight": "1.5lb, 0.68kg",
+    "dateEndSale": "2024-11-17T10:00:00",
+    "sizeChart": "/assets/product/size_chart.jpg",
+    "isWish": "true",
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/q_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLUE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/q_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 17,
+    "highlightedImage": "/assets/product/r_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/r_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/r_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/r_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/r_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "weight": "1.5lb, 0.68kg",
+    "dateEndSale": "2024-11-17T10:00:00",
+    "sizeChart": "/assets/product/size_chart.jpg",
+    "isWish": "true",
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/r_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/r_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 18,
+    "highlightedImage": "/assets/product/s_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/s_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/s_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/s_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/s_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "weight": "1.5lb, 0.68kg",
+    "dateEndSale": "2024-11-17T10:00:00",
+    "sizeChart": "/assets/product/size_chart.jpg",
+    "isWish": "false",
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/s_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/s_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 19,
+    "highlightedImage": "/assets/product/t_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/t_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/t_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/t_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/t_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "weight": "1.5lb, 0.68kg",
+    "dateEndSale": "2024-11-17T10:00:00",
+    "sizeChart": "/assets/product/size_chart.jpg",
+    "isWish": "true",
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "RED"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/t_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/t_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  }
+]

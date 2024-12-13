@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>3.3.4</version>
+		<relativePath />
+	</parent>
+
+	<groupId>com.haibazo.bff</groupId>
+	<artifactId>haibazo-bff-mock</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
+	<name>haibazo-bff-mock</name>
+	<description>Mock with simplest logic for HAIBAZO BFF</description>
+	<packaging>pom</packaging>
+
+	<modules>
+		<module>haibazo-bff-mock-webapi</module>
+	</modules>
+
+	<properties>
+		<java.version>21</java.version>
+		<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
+		<com.fasterxml.jackson.core.version>2.18.0</com.fasterxml.jackson.core.version>
+		<!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
+		<org.slf4j.slf4j-api.version>2.0.16</org.slf4j.slf4j-api.version>
+		<!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+		<org.projectlombok.lombok.version>1.18.34</org.projectlombok.lombok.version>
+		<!-- https://mvnrepository.com/artifact/com.opencsv/opencsv -->
+		<com.opencsv.version>5.9</com.opencsv.version>
+		<software.amazon.awssdk.version>2.29.23</software.amazon.awssdk.version>
+	</properties>
+
+	<dependencyManagement>
+		<dependencies>
+			<dependency>
+				<groupId>com.fasterxml.jackson.core</groupId>
+				<artifactId>jackson-annotations</artifactId>
+				<version>${com.fasterxml.jackson.core.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.slf4j</groupId>
+				<artifactId>slf4j-api</artifactId>
+				<version>${org.slf4j.slf4j-api.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.projectlombok</groupId>
+				<artifactId>lombok</artifactId>
+				<version>${org.projectlombok.lombok.version}</version>
+				<scope>provided</scope>
+			</dependency>
+			<dependency>
+				<groupId>com.opencsv</groupId>
+				<artifactId>opencsv</artifactId>
+				<version>${com.opencsv.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>software.amazon.awssdk</groupId>
+				<artifactId>s3</artifactId>
+				<version>${software.amazon.awssdk.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>io.opentelemetry</groupId>
+				<artifactId>opentelemetry-api</artifactId>
+				<version>1.45.0</version>
+			</dependency>
+			<dependency>
+				<groupId>io.opentelemetry</groupId>
+				<artifactId>opentelemetry-sdk</artifactId>
+				<version>1.45.0</version>
+			</dependency>
+			<dependency>
+				<groupId>io.opentelemetry</groupId>
+				<artifactId>opentelemetry-exporter-otlp</artifactId>
+				<version>1.45.0</version>
+			</dependency>
+		</dependencies>
+	</dependencyManagement>
+</project>

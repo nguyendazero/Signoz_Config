@@ -1,0 +1,47 @@
+services:
+  haibazo-bff-mock-webapi-development:
+    image: hbzkhanhnk/haibazo-bff-mock-webapi:1.0.2
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: haibazo-bff-mock-webapi-runner
+    container_name: haibazo-bff-mock-webapi-development
+    ports:
+      - "2380:8080"
+    volumes:
+      - ./haibazo-bff-mock-static:/app/haibazo-bff-mock-static
+    env_file:
+      - path: ./.env.development
+        required: false
+
+  haibazo-bff-mock-webapi-st-a:
+    image: hbzkhanhnk/haibazo-bff-mock-webapi:1.0.2
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: haibazo-bff-mock-webapi-runner
+    container_name: haibazo-bff-mock-webapi-st-a
+    ports:
+      - "2301:8080"
+    env_file:
+      - path: ./.env.st-a
+        required: false
+    restart: unless-stopped
+    volumes:
+      - ./haibazo-bff-mock-static-st-a:/app/haibazo-bff-mock-static
+
+  haibazo-bff-mock-webapi-st-b:
+    image: hbzkhanhnk/haibazo-bff-mock-webapi:1.0.2
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: haibazo-bff-mock-webapi-runner
+    container_name: haibazo-bff-mock-webapi-st-b
+    ports:
+      - "2302:8080"
+    env_file:
+      - path: ./.env.st-b
+        required: false
+    restart: unless-stopped
+    volumes:
+      - ./haibazo-bff-mock-static-st-b:/app/haibazo-bff-mock-static

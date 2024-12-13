@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "code": "hai3zo",
+    "discount": 10,
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "code": "2bazo",
+    "discount": 15,
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "code": "23zo",
+    "discount": 10,
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  }
+]

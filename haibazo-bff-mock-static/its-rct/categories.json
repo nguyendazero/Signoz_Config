@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Home & Decor",
+    "type": "category",
+    "image": "/assets/category/home_decor.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "name": "Accessories",
+    "type": "category",
+    "image": "/assets/category/accessories.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "name": "Clothing",
+    "type": "category",
+    "image": "/assets/category/clothing.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "name": "Watch",
+    "type": "category",
+    "image": "/assets/category/watch.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "name": "Garden",
+    "type": "category",
+    "image": "/assets/category/garden.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "name": "Kitchen",
+    "type": "category",
+    "image": "/assets/category/kitchen.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "name": "Outdoor",
+    "type": "category",
+    "image": "/assets/category/outdoor.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "name": "StreetWear",
+    "type": "style",
+    "image": "/assets/category/outdoor.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 8,
+    "name": "ColorFull",
+    "type": "style",
+    "image": "/assets/category/outdoor.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 9,
+    "name": "PatchWork",
+    "type": "style",
+    "image": "/assets/category/outdoor.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 10,
+    "name": "Vintage",
+    "type": "style",
+    "image": "/assets/category/outdoor.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  }
+]

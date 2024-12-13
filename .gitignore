@@ -5,7 +5,7 @@ target/
 !**/src/test/**/target/
 
 # Spring Boot profiles
-**/src/**/application*.properties
+#**/src/**/application*.properties
 !**/src/main/**/application*.properties.example
 
 ### STS ###
